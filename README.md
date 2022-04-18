@@ -5,6 +5,9 @@
 
 2. Restart
   - Local Storage 접근 및 사용 예제. 페이지 transitioning
+  - State 사용
+  - 애니메이션 사용
+  - Gesture 사용
 
 3. 
 
