@@ -12,6 +12,11 @@
     parallex effect,
     text transition(text id),
   - Gesture 사용
+
+  - AVFoundation 오디오 사용
+    AVAudioPlayer
+    
+  - Haptic Feedback 사용
   
 3. 
 
