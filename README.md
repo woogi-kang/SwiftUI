@@ -32,5 +32,6 @@
   
   Note: func prepareThumbnail() 함수가 추가됨.
   
+ <b>4. Fruits</b>
  
 
