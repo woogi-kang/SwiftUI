@@ -33,5 +33,10 @@
   Note: func prepareThumbnail() 함수가 추가됨.
   
  <b>4. Fruits</b>
- 
+  - NavigationView 구현
+  - ScrollView 구현
+  - View 컴포넌트화
+  - Navigation 관련 기능 구현
+  - Environment(presentationMode) 기능 구현
+  - iPad 뷰 
 
