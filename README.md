@@ -38,5 +38,11 @@
   - View 컴포넌트화
   - Navigation 관련 기능 구현
   - Environment(presentationMode) 기능 구현
-  - iPad 뷰 
+  - iPad 뷰
+
+ <b>5. Africa</b>
+  - Tabview 구현
+  - Json decoding
+  - List 뷰 구현
+  - 
 
