@@ -44,5 +44,9 @@
   - Tabview 구현
   - Json decoding
   - List 뷰 구현
-  - 
+  - Apple Map(Pin, Marker, Annotation) 구현
+  - Videoplayer (AVplayer) 구현
+  - overlay
+  - Random 함수들
+  - GeometryReader 구현 
 
