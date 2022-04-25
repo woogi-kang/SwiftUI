@@ -51,6 +51,11 @@ struct ContentView: View {
                 AnimalListItemView(animal: animal)
               }
             }
+            
+            HStack {
+              CreditsView()
+                .modifier(CenterModifier())
+            }
           } // List
         } else {
           ScrollView(.vertical, showsIndicators: false) {
