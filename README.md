@@ -1,6 +1,6 @@
 # SwiftUI 연습 프로젝트
 
-<b>1. AsyncImage</b> 
+<b>1. AsyncImage</b>  
   - AsyncImage 클래스 관련 기능 구현
 
 <b>2. Restart</b>
@@ -51,4 +51,5 @@
   - GeometryReader 구현 
 
  <b>6. Touchdown</b>
+  - 
 
